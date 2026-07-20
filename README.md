@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Visitas](https://hits.seeyoufarm.com/api/count/graph/badge.svg?url=https%3A%2F%2Fgithub.com%2FSomniii%2FSomniii&title=Visitas)
 My Name is Ian Valentino Florentin Ramos
 <!--
 **Somniii/Somniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
